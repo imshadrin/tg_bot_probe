@@ -7,7 +7,7 @@ let btn = document.getElementById("click-btn");
 // Добавляем событие нажатия на кнопку
 btn.addEventListener("click", function(){
     // Выводим сообщение через Telegram API
-    tg.showAlert("Кнопка успешно нажата!");
+    tg.showAlert("Настенька самая лучшая!");
 });
 
 // Говорим Telegram, что приложение готово к работе
